@@ -25,26 +25,8 @@
   <section>
     <h2>Contact</h2>
     <p>Email: feruzsirojov9876@gmail.com</p>
+    <p>Telegram: @iamferuz</p>
+    <p>Instagram: @f__sirojov
   </section>
 </body>
 </html>
-body {
-  font-family: Arial, sans-serif;
-  margin: 0;
-  padding: 20px;
-  background-color: #f4f4f4;
-}
-
-header {
-  background-color: #333;
-  color: white;
-  padding: 30px;
-  text-align: center;
-}
-
-section {
-  margin: 20px 0;
-  padding: 20px;
-  background-color: white;
-  border-radius: 8px;
-}
